@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46147" started-at="2019-10-16T14:35:39 IST" finished-at="2019-10-16T14:36:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46147" started-at="2019-10-16T14:35:39 IST" finished-at="2019-10-16T14:36:25 IST">
+      <class name="Training.Practice.Login">
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@68bbe345]" name="launchSite" is-config="true" duration-ms="13194" started-at="2019-10-16T14:35:41 IST" finished-at="2019-10-16T14:35:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSite -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:Training.Practice.Login@68bbe345]" name="loginPage" duration-ms="2439" started-at="2019-10-16T14:35:54 IST" data-provider="getExcelData" finished-at="2019-10-16T14:35:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@68bbe345]" name="closeBrowser" is-config="true" duration-ms="750" started-at="2019-10-16T14:35:57 IST" finished-at="2019-10-16T14:35:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@68bbe345]" name="launchSite" is-config="true" duration-ms="6150" started-at="2019-10-16T14:35:58 IST" finished-at="2019-10-16T14:36:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSite -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:Training.Practice.Login@68bbe345]" name="loginPage" duration-ms="2286" started-at="2019-10-16T14:36:04 IST" data-provider="getExcelData" finished-at="2019-10-16T14:36:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@68bbe345]" name="closeBrowser" is-config="true" duration-ms="636" started-at="2019-10-16T14:36:06 IST" finished-at="2019-10-16T14:36:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@68bbe345]" name="launchSite" is-config="true" duration-ms="6301" started-at="2019-10-16T14:36:07 IST" finished-at="2019-10-16T14:36:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSite -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:Training.Practice.Login@68bbe345]" name="loginPage" duration-ms="2305" started-at="2019-10-16T14:36:13 IST" data-provider="getExcelData" finished-at="2019-10-16T14:36:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@68bbe345]" name="closeBrowser" is-config="true" duration-ms="632" started-at="2019-10-16T14:36:15 IST" finished-at="2019-10-16T14:36:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@68bbe345]" name="launchSite" is-config="true" duration-ms="6129" started-at="2019-10-16T14:36:16 IST" finished-at="2019-10-16T14:36:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSite -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:Training.Practice.Login@68bbe345]" name="loginPage" duration-ms="2310" started-at="2019-10-16T14:36:22 IST" data-provider="getExcelData" finished-at="2019-10-16T14:36:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@68bbe345]" name="closeBrowser" is-config="true" duration-ms="631" started-at="2019-10-16T14:36:24 IST" finished-at="2019-10-16T14:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Training.Practice.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
