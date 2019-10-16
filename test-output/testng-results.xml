@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="46147" started-at="2019-10-16T14:35:39 IST" finished-at="2019-10-16T14:36:25 IST">
+  <suite name="Suite" duration-ms="50583" started-at="2019-10-16T15:29:31 IST" finished-at="2019-10-16T15:30:22 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="46147" started-at="2019-10-16T14:35:39 IST" finished-at="2019-10-16T14:36:25 IST">
+    <test name="Test" duration-ms="50583" started-at="2019-10-16T15:29:31 IST" finished-at="2019-10-16T15:30:22 IST">
       <class name="Training.Practice.Login">
-        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@68bbe345]" name="launchSite" is-config="true" duration-ms="13194" started-at="2019-10-16T14:35:41 IST" finished-at="2019-10-16T14:35:54 IST">
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@30b8a058]" name="launchSite" is-config="true" duration-ms="10601" started-at="2019-10-16T15:29:32 IST" finished-at="2019-10-16T15:29:42 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchSite -->
-        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:Training.Practice.Login@68bbe345]" name="loginPage" duration-ms="2439" started-at="2019-10-16T14:35:54 IST" data-provider="getExcelData" finished-at="2019-10-16T14:35:57 IST">
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:1, instance:Training.Practice.Login@30b8a058]" name="loginPage" duration-ms="2332" started-at="2019-10-16T15:29:42 IST" data-provider="getExcelData" finished-at="2019-10-16T15:29:45 IST">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPage -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@68bbe345]" name="closeBrowser" is-config="true" duration-ms="750" started-at="2019-10-16T14:35:57 IST" finished-at="2019-10-16T14:35:58 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@30b8a058]" name="closeBrowser" is-config="true" duration-ms="618" started-at="2019-10-16T15:29:45 IST" finished-at="2019-10-16T15:29:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@68bbe345]" name="launchSite" is-config="true" duration-ms="6150" started-at="2019-10-16T14:35:58 IST" finished-at="2019-10-16T14:36:04 IST">
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@30b8a058]" name="launchSite" is-config="true" duration-ms="6544" started-at="2019-10-16T15:29:45 IST" finished-at="2019-10-16T15:29:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchSite -->
-        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:Training.Practice.Login@68bbe345]" name="loginPage" duration-ms="2286" started-at="2019-10-16T14:36:04 IST" data-provider="getExcelData" finished-at="2019-10-16T14:36:06 IST">
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:1, instance:Training.Practice.Login@30b8a058]" name="loginPage" duration-ms="2280" started-at="2019-10-16T15:29:52 IST" data-provider="getExcelData" finished-at="2019-10-16T15:29:54 IST">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPage -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@68bbe345]" name="closeBrowser" is-config="true" duration-ms="636" started-at="2019-10-16T14:36:06 IST" finished-at="2019-10-16T14:36:07 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@30b8a058]" name="closeBrowser" is-config="true" duration-ms="632" started-at="2019-10-16T15:29:54 IST" finished-at="2019-10-16T15:29:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@68bbe345]" name="launchSite" is-config="true" duration-ms="6301" started-at="2019-10-16T14:36:07 IST" finished-at="2019-10-16T14:36:13 IST">
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@30b8a058]" name="launchSite" is-config="true" duration-ms="6131" started-at="2019-10-16T15:29:55 IST" finished-at="2019-10-16T15:30:01 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchSite -->
-        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:Training.Practice.Login@68bbe345]" name="loginPage" duration-ms="2305" started-at="2019-10-16T14:36:13 IST" data-provider="getExcelData" finished-at="2019-10-16T14:36:15 IST">
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:1, instance:Training.Practice.Login@30b8a058]" name="loginPage" duration-ms="2297" started-at="2019-10-16T15:30:01 IST" data-provider="getExcelData" finished-at="2019-10-16T15:30:03 IST">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPage -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@68bbe345]" name="closeBrowser" is-config="true" duration-ms="632" started-at="2019-10-16T14:36:15 IST" finished-at="2019-10-16T14:36:16 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@30b8a058]" name="closeBrowser" is-config="true" duration-ms="865" started-at="2019-10-16T15:30:03 IST" finished-at="2019-10-16T15:30:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@68bbe345]" name="launchSite" is-config="true" duration-ms="6129" started-at="2019-10-16T14:36:16 IST" finished-at="2019-10-16T14:36:22 IST">
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Login@30b8a058]" name="launchSite" is-config="true" duration-ms="6960" started-at="2019-10-16T15:30:04 IST" finished-at="2019-10-16T15:30:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchSite -->
-        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:Training.Practice.Login@68bbe345]" name="loginPage" duration-ms="2310" started-at="2019-10-16T14:36:22 IST" data-provider="getExcelData" finished-at="2019-10-16T14:36:24 IST">
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:1, instance:Training.Practice.Login@30b8a058]" name="loginPage" duration-ms="2314" started-at="2019-10-16T15:30:11 IST" data-provider="getExcelData" finished-at="2019-10-16T15:30:13 IST">
           <params>
             <param index="0">
               <value>
@@ -99,11 +99,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPage -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@68bbe345]" name="closeBrowser" is-config="true" duration-ms="631" started-at="2019-10-16T14:36:24 IST" finished-at="2019-10-16T14:36:25 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Training.Practice.Login@30b8a058]" name="closeBrowser" is-config="true" duration-ms="631" started-at="2019-10-16T15:30:13 IST" finished-at="2019-10-16T15:30:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- Training.Practice.Login -->
+      <class name="Training.Practice.Logoff">
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:Training.Practice.Logoff@7494e528]" name="launchSite" duration-ms="6863" started-at="2019-10-16T15:30:14 IST" finished-at="2019-10-16T15:30:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSite -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Training.Practice.Logoff@7494e528]" name="close" is-config="true" duration-ms="651" started-at="2019-10-16T15:30:21 IST" finished-at="2019-10-16T15:30:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Training.Practice.Logoff -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

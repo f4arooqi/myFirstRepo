@@ -33,7 +33,7 @@ static WebDriver driver;
 	}
 	
 	
-	@Test(dataProvider = "getExcelData")
+	@Test(dataProvider = "getExcelData", priority = 1)
 	public void loginPage(String username, String password) throws InterruptedException {
 		driver.findElement(By.name("username")).clear();
 		driver.findElement(By.name("username")).sendKeys(username);

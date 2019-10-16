@@ -10,6 +10,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Training.Practice.Login"/>
+      <class name="Training.Practice.Logoff"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
