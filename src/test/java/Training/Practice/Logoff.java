@@ -13,6 +13,7 @@ public class Logoff {
 		System.setProperty("webdriver.chrome.driver", "D:\\selenium\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
+		Thread.sleep(3000);
 		driver.get("http://www.gcrit.com/build3/admin/");
 	}
 
